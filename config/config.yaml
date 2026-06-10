@@ -140,18 +140,6 @@ rss:
       name: "Forbes - Business"
       url: "https://www.forbes.com/business/feed/"
   
-    - id: "nyt-world"
-      name: "NYT > World News"
-      url: "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
-  
-    - id: "guardian-world"
-      name: "The Guardian - World"
-      url: "https://www.theguardian.com/world/rss"
-  
-    - id: "google-news"
-      name: "Google News"
-      url: "https://news.google.com/rss"
-  
     - id: "yahoo-finance"
       name: "Yahoo Finance"
       url: "https://finance.yahoo.com/news/rssindex"
@@ -159,54 +147,6 @@ rss:
     - id: "wsj-world"
       name: "WSJ - World News"
       url: "https://feeds.a.dj.com/rss/RSSWorldNews.xml"
-  
-    - id: "washington-post-world"
-      name: "Washington Post - World"
-      url: "http://feeds.washingtonpost.com/rss/world"
-  
-    - id: "bbc-news-world"
-      name: "BBC News - World"
-      url: "http://feeds.bbci.co.uk/news/world/rss.xml"
-  
-    - id: "cnn-world"
-      name: "CNN - World News"
-      url: "http://rss.cnn.com/rss/edition_world.rss"
-  
-    - id: "serious-eats-recipes"
-      name: "Serious Eats: Recipes"
-      url: "http://feeds.feedburner.com/seriouseats/recipes"
-  
-    - id: "food52"
-      name: "Food52"
-      url: "http://feeds.feedburner.com/food52-TheAandMBlog"
-  
-    - id: "kitchn"
-      name: "Kitchn"
-      url: "https://www.thekitchn.com/main.rss"
-  
-    - id: "bon-appetit"
-      name: "Bon Appétit"
-      url: "https://www.youtube.com/feeds/videos.xml?user=BonAppetitDotCom"
-  
-    - id: "smitten-kitchen"
-      name: "Smitten Kitchen"
-      url: "http://feeds.feedburner.com/smittenkitchen"
-  
-    - id: "101-cookbooks"
-      name: "101 Cookbooks"
-      url: "https://www.101cookbooks.com/feed"
-  
-    - id: "gastropod"
-      name: "Gastropod"
-      url: "https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/2a195077-f014-41d2-8313-ab190186b4c2/277bcd5c-0a05-4c14-8ba6-ab190186b4d5/podcast.rss"
-  
-    - id: "nyt-food"
-      name: "NYT > Food"
-      url: "https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml"
-  
-    - id: "williams-sonoma"
-      name: "Williams-Sonoma Taste"
-      url: "https://blog.williams-sonoma.com/feed/"
   
     - id: "sciencedaily"
       name: "ScienceDaily"
@@ -228,66 +168,6 @@ rss:
       name: "Phys.org"
       url: "https://phys.org/rss-feed/"
   
-    - id: "flowing-data"
-      name: "FlowingData"
-      url: "https://flowingdata.com/feed"
-  
-    - id: "us-huffpost"
-      name: "HuffPost - World News"
-      url: "https://www.huffpost.com/section/world-news/feed"
-  
-    - id: "us-nyt-top"
-      name: "NYT > Top Stories"
-      url: "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
-  
-    - id: "us-la-times"
-      name: "LA Times - World & Nation"
-      url: "https://www.latimes.com/world-nation/rss2.0.xml"
-  
-    - id: "us-playbook"
-      name: "Politico - Playbook"
-      url: "https://rss.politico.com/playbook.xml"
-  
-    - id: "us-fox-news"
-      name: "FOX News"
-      url: "http://feeds.foxnews.com/foxnews/latest"
-  
-    - id: "us-yahoo-news"
-      name: "Yahoo News"
-      url: "https://news.yahoo.com/rss/mostviewed"
-  
-    - id: "uk-bbc"
-      name: "BBC News - Home"
-      url: "http://feeds.bbci.co.uk/news/rss.xml"
-  
-    - id: "uk-daily-mail"
-      name: "Daily Mail - Home"
-      url: "https://www.dailymail.co.uk/home/index.rss"
-  
-    - id: "uk-independent"
-      name: "The Independent UK"
-      url: "http://www.independent.co.uk/news/uk/rss"
-  
-    - id: "uk-daily-express"
-      name: "Daily Express - News"
-      url: "http://feeds.feedburner.com/daily-express-news-showbiz"
-  
-    - id: "in-times-of-india"
-      name: "Times of India"
-      url: "https://timesofindia.indiatimes.com/rssfeedstopstories.cms"
-  
-    - id: "in-the-hindu"
-      name: "The Hindu - Home"
-      url: "https://www.thehindu.com/feeder/default.rss"
-  
-    - id: "in-ndtv"
-      name: "NDTV News - Topstories"
-      url: "https://feeds.feedburner.com/ndtvnews-top-stories"
-  
-    - id: "in-india-today"
-      name: "India Today"
-      url: "https://www.indiatoday.in/rss/home"
-  
     - id: "in-economic-times"
       name: "Economic Times"
       url: "https://economictimes.indiatimes.com/rssfeedsdefault.cms"
@@ -304,73 +184,37 @@ rss:
       name: "Japan Times"
       url: "https://www.japantimes.co.jp/feed/topstories/"
   
-    - id: "jp-japan-today"
-      name: "Japan Today"
-      url: "https://japantoday.com/feed"
-  
     - id: "jp-kyodo-news"
       name: "Kyodo News+"
       url: "https://english.kyodonews.net/rss/all.xml"
-  
-    - id: "jp-asahi"
-      name: "朝日新聞デジタル"
-      url: "http://rss.asahi.com/rss/asahi/newsheadlines.rdf"
-  
-    - id: "de-zeit"
-      name: "ZEIT ONLINE"
-      url: "http://newsfeed.zeit.de/index"
-  
-    - id: "de-faz"
-      name: "Frankfurter Allgemeine Zeitung"
-      url: "https://www.faz.net/rss/aktuell/"
-  
-    - id: "de-tagesschau"
-      name: "tagesschau.de"
-      url: "http://www.tagesschau.de/xml/rss2"
   
     - id: "de-deutsche-welle"
       name: "Deutsche Welle"
       url: "https://rss.dw.com/rdf/rss-en-all"
   
-    - id: "de-focus"
-      name: "FOCUS Online"
-      url: "https://rss.focus.de/fol/XML/rss_folnews.xml"
+    - id: "serious-eats-recipes"
+      name: "Serious Eats: Recipes"
+      url: "http://feeds.feedburner.com/seriouseats/recipes"
   
-    - id: "opml-usa"
-      name: "United States (OPML)"
-      url: "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/countries/with_category/United%20States.opml"
+    - id: "food52"
+      name: "Food52"
+      url: "http://feeds.feedburner.com/food52-TheAandMBlog"
   
-    - id: "opml-uk"
-      name: "United Kingdom (OPML)"
-      url: "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/countries/with_category/United%20Kingdom.opml"
+    - id: "kitchn"
+      name: "Kitchn"
+      url: "https://www.thekitchn.com/main.rss"
   
-    - id: "opml-india"
-      name: "India (OPML)"
-      url: "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/countries/with_category/India.opml"
+    - id: "nyt-food"
+      name: "NYT > Food"
+      url: "https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml"
   
-    - id: "opml-japan"
-      name: "Japan (OPML)"
-      url: "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/countries/with_category/Japan.opml"
+    - id: "williams-sonoma"
+      name: "Williams-Sonoma Taste"
+      url: "https://blog.williams-sonoma.com/feed/"
   
-    - id: "opml-germany"
-      name: "Germany (OPML)"
-      url: "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/countries/with_category/Germany.opml"
-  
-    - id: "opml-food"
-      name: "Food (OPML)"
-      url: "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/with_category/Food.opml"
-  
-    - id: "opml-business"
-      name: "Business & Economy (OPML)"
-      url: "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/with_category/Business%20&%20Economy.opml"
-  
-    - id: "opml-news"
-      name: "News (OPML)"
-      url: "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/with_category/News.opml"
-  
-    - id: "opml-science"
-      name: "Science (OPML)"
-      url: "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/with_category/Science.opml"
+    - id: "gastropod"
+      name: "Gastropod"
+      url: "https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/2a195077-f014-41d2-8313-ab190186b4c2/277bcd5c-0a05-4c14-8ba6-ab190186b4d5/podcast.rss"
 
       
     # 自定义源示例
